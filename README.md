@@ -23,11 +23,10 @@ We can see that the total fares for urban cities remains consistently higher tha
 
 ## Summary
 
-(Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.)
 
-We should investigate whether or not the total number of drivers in rural areas is sufficient to service potential riders in those cities.
+- We should investigate whether or not the total number of drivers in rural areas is sufficient to service potential riders in those cities.
 
-We should consider charging more in urban cities or find another way to increase the average fare per driver.
+- We should consider charging more in urban cities or find another way to increase the average fare per driver.
 
-We should consider charging more or less for certain ride types during a small period of time as a test to see how the amount of rides and drivers change in response.
+- We should consider charging more or less for certain ride types during a small period of time as a test to see how the amount of rides and drivers change in response.
 
